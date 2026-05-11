@@ -1,0 +1,80 @@
+{
+  "Logistic Regression": {
+    "A_1990_2000": {
+      "n_samples": 457,
+      "accuracy": 0.7637,
+      "macro_f1": 0.5973,
+      "cohen_kappa": 0.5274
+    },
+    "B_2001_2010": {
+      "n_samples": 450,
+      "accuracy": 0.7644,
+      "macro_f1": 0.5181,
+      "cohen_kappa": 0.3806
+    },
+    "C_2011_2020": {
+      "n_samples": 414,
+      "accuracy": 0.6957,
+      "macro_f1": 0.5332,
+      "cohen_kappa": 0.3694
+    },
+    "D_2021_2025": {
+      "n_samples": 256,
+      "accuracy": 0.7148,
+      "macro_f1": 0.4342,
+      "cohen_kappa": 0.2979
+    }
+  },
+  "Random Forest": {
+    "A_1990_2000": {
+      "n_samples": 457,
+      "accuracy": 0.7527,
+      "macro_f1": 0.5512,
+      "cohen_kappa": 0.4922
+    },
+    "B_2001_2010": {
+      "n_samples": 450,
+      "accuracy": 0.7822,
+      "macro_f1": 0.4722,
+      "cohen_kappa": 0.4042
+    },
+    "C_2011_2020": {
+      "n_samples": 414,
+      "accuracy": 0.6498,
+      "macro_f1": 0.4076,
+      "cohen_kappa": 0.2337
+    },
+    "D_2021_2025": {
+      "n_samples": 256,
+      "accuracy": 0.6914,
+      "macro_f1": 0.387,
+      "cohen_kappa": 0.2056
+    }
+  },
+  "XGBoost": {
+    "A_1990_2000": {
+      "n_samples": 457,
+      "accuracy": 0.9431,
+      "macro_f1": 0.8944,
+      "cohen_kappa": 0.8961
+    },
+    "B_2001_2010": {
+      "n_samples": 450,
+      "accuracy": 0.9533,
+      "macro_f1": 0.9042,
+      "cohen_kappa": 0.8977
+    },
+    "C_2011_2020": {
+      "n_samples": 414,
+      "accuracy": 0.9082,
+      "macro_f1": 0.8692,
+      "cohen_kappa": 0.833
+    },
+    "D_2021_2025": {
+      "n_samples": 256,
+      "accuracy": 0.9297,
+      "macro_f1": 0.9082,
+      "cohen_kappa": 0.8603
+    }
+  }
+}

@@ -1,0 +1,28 @@
+# Large processed files
+data_processed/*.json
+data_processed/features/*.npz
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+
+# Dataset
+199*/
+200*/
+201*/
+202*/
+*.pdf
+*.PDF
+*.zip
+labeled.csv
+dataset.csv
+
+# Paper
+paper/
