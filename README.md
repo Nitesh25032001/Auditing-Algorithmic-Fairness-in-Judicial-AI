@@ -58,6 +58,4 @@ SHAP analysis reveals that the model primarily relies on robust operative legal 
 ![SHAP Summary Plot](figures/shap_summary_plot.png)
 
 ## Authors
-- Nitesh Pradhan (M.Sc. Data Science, VIT Chennai)
-- Mithuna Malini (M.Sc. Data Science, VIT Chennai)
-- Prof. Dr. Kriti Arya (Project Guide, VIT Chennai)
+- Nitesh Pradhan 
